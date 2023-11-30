@@ -31,8 +31,6 @@ To run the script, the following libraries are required:
 ## How to Run
 
 Execute the `ternary_plot.py` script by running the following command:
-
-```bash
 python ternary_plot.py
 
 
@@ -69,7 +67,5 @@ The following libraries are required to run the script:
 ## How to Run
 
 Execute the `tie_line_plot.py` script by running the following command:
-
-```bash
 python tie_line_plot.py
 
